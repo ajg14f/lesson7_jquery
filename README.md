@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/4/18
 
 ### Student Name:  
-(First and Last Name)
+Alvaro Gonzalez
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+The program I made is interactive recipe for Brownies that contains dropdown menus
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajg14f.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1.I learned how to make a text hover dropdown menu
+2.I learned how to make a clickable dropdown menu as well
+3.I learned how javascript can be used to highlight items that are cursored
